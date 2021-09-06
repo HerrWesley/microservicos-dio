@@ -1,0 +1,2 @@
+one/digital/innovation/servicediscovery/ServiceDiscoveryApplication.java
+ one.digital.innovation.servicediscovery.ServiceDiscoveryApplication
